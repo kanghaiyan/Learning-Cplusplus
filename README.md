@@ -6,11 +6,13 @@ Repository of all my C++ Learning
 ### Beginner
 
 1. [[Beginning C++ Programming]]
-2.  [[Beginning C++20]]
-3.  [[C++ All-in-One For Dummies]]
+2. [[Beginning C++20]]
+3. [[C++ All-in-One For Dummies]]
 4. [[C++ Primer]]
-5. [[Programming Principles and Practice Using C++]]
-6. [[Starting out with C++]]
+5. [[C++ Programming]]
+6. [[Learn C++ Programming Language]]
+7. [[Programming Principles and Practice Using C++]]
+8. [[Starting out with C++]]
 
 ### Introductory
 
@@ -33,6 +35,7 @@ Repository of all my C++ Learning
 5. [[Exceptional C++]]
 6. [[Exceptional C++ Style]]
 7. [[More Exceptional C++]]
+8. [[100 C++ Mistakes and How to Avoid Them]]
 
 ### Standard Library
 
@@ -51,11 +54,14 @@ Repository of all my C++ Learning
 1. [[Large-Scale C++ Volume I Process and Architecture]]
 
 ### Reference
+
 1. [[A Complete Guide to Programming in C++]]
 2. [[C++ Cookbook]]
 3. [[The C++ Programming Language]]
 
 ### Misc
 
-1. [[Discovering Modern C++]]
-2. [[Functional Programming in C++]]
+1. [[C++ Notes For Professionals]]
+2. [[Discovering Modern C++]]
+3. [[Functional Programming in C++]]
+4. [[Professional CMake]]
