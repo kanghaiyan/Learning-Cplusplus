@@ -1,9 +1,9 @@
 # Cpp-Programming
 Repository of all my C++ Learning
 
-# My Reading Lst
+# My C++ Reading List
 
-## Beginner
+### Beginner
 
 1. [[Beginning C++ Programming]]
 2.  [[Beginning C++20]]
@@ -12,19 +12,19 @@ Repository of all my C++ Learning
 5. [[Programming Principles and Practice Using C++]]
 6. [[Starting out with C++]]
 
-## Introductory
+### Introductory
 
 1. [[A Tour of C++]]
 2. [[Accelerated C++]]
 3. [[C++20 The Complete Guide]]
 
-## Intermediate
+### Intermediate
 
 1. [[C++ Crash Course]]
 2. [[Modern C++ Programming Cookbook]]
 3. [[Professional C++]]
 
-## Best Practices
+### Best Practices
 
 1. [[C++ Coding Standards]]
 2. [[Design Patterns in Modern C++20]]
@@ -34,28 +34,28 @@ Repository of all my C++ Learning
 6. [[Exceptional C++ Style]]
 7. [[More Exceptional C++]]
 
-## Standard Library
+### Standard Library
 
 1. [[The C++ Standard Library]]
 2. [[The C++ Standard Library 2023]]
 
-## Standard Template Library
+### Standard Template Library
 
 1. [[C++ Template Metaprogramming]]
 2. [[Effective STL]]
 3. [[Mastering the C++ 17 STL]]
 4. [[Using the C++ Standard Template Libraries]]
 
-## Advanced
+### Advanced
 
 1. [[Large-Scale C++ Volume I Process and Architecture]]
 
-## Reference
+### Reference
 1. [[A Complete Guide to Programming in C++]]
 2. [[C++ Cookbook]]
 3. [[The C++ Programming Language]]
 
-## Misc
+### Misc
 
 1. [[Discovering Modern C++]]
 2. [[Functional Programming in C++]]
