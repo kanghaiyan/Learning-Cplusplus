@@ -10,9 +10,9 @@ Repository of all my C++ Learning
 3. [[C++ All-in-One For Dummies]]
 4. [[C++ Primer]]
 5. [[C++ Programming]]
-6. [[Learn C++ Programming Language]]
+6. [Learn C++ Programming Language](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Learn%20C%2B%2B%20Programming%20Language)
 7. [[Programming Principles and Practice Using C++]]
-8. [[Starting out with C++]]
+8. [Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)
 
 ### Introductory
 
