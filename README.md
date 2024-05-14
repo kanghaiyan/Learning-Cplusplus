@@ -28,7 +28,7 @@ Repository of all my C++ Learning
 
 ### Best Practices
 
-1. [[C++ Coding Standards]]
+1. [C++ Coding Standards](https://github.com/olemdiga/Cpp-Programming/tree/8472295a81d109c69420003682d2d1fc7e921c07/My%20Notes/C%2B%2B%20Coding%20Standards)
 2. [[Design Patterns in Modern C++20]]
 3. [[Effective C++]]
 4. [[Effective Modern C++]]
