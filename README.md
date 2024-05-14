@@ -8,7 +8,7 @@ Repository of all my C++ Learning
 1. [[Beginning C++ Programming]]
 2. [[Beginning C++20]]
 3. [[C++ All-in-One For Dummies]]
-4. [[C++ Primer]]
+4. [C++ Primer](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Primer)
 5. [[C++ Programming]]
 6. [Learn C++ Programming Language](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Learn%20C%2B%2B%20Programming%20Language)
 7. [[Programming Principles and Practice Using C++]]
@@ -22,7 +22,7 @@ Repository of all my C++ Learning
 
 ### Intermediate
 
-1. [[C++ Crash Course]]
+1. [C++ Crash Course](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Crash%20Course)
 2. [[Modern C++ Programming Cookbook]]
 3. [[Professional C++]]
 
