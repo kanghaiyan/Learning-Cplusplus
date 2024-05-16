@@ -18,7 +18,7 @@
 ### Introductory
 
 - [ ] 1. [[A Tour of C++]]
-- [ ] 2. [[Accelerated C++]]
+- [ ] 2. [Accelerated C++](https://github.com/olemdiga/Learning-Cplusplus/tree/022b17e625a04ffa93b99f3a8598e0058df689f7/My%20Notes/Accelerated%20C%2B%2B)
 - [ ] 3. [[C++20 The Complete Guide]]
 
 ### Intermediate
