@@ -24,7 +24,7 @@
 ### Intermediate
 
 - [ ] 1. [C++ Crash Course](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Crash%20Course)
-- [ ] 2. [[Modern C++ Programming Cookbook]]\()
+- [ ] 2. [Modern C++ Programming Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/617c8d9860195400b06883f23a7cd398065f1c5b/My%20Notes/Modern%20C%2B%2B%20Programming%20Cookbook)
 - [ ] 3. [Professional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20C%2B%2B)
 
 ### Best Practices
