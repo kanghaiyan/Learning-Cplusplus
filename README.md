@@ -47,7 +47,7 @@
 
 - [ ] 1. [[C++ Template Metaprogramming]]\()
 - [ ] 2. [[Effective STL]]\()
-- [ ] 3. [[Mastering the C++ 17 STL]]()
+- [ ] 3. [[Mastering the C++ 17 STL]]\()
 - [ ] 4. [[Using the C++ Standard Template Libraries]]\()
 
 ### Advanced
