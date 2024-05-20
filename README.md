@@ -33,7 +33,7 @@
 - [ ] 2. [[Design Patterns in Modern C++20]]\()
 - [ ] 3. [[Effective C++]]\()
 - [ ] 4. [[Effective Modern C++]]\()
-- [ ] 5. [[Exceptional C++]]\()
+- [ ] 5. [Exceptional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/08031a63afc24265a63ed4758a3ea13bc5695b29/My%20Notes/Exceptional%20C%2B%2B)
 - [ ] 6. [Exceptional C++ Style](https://github.com/olemdiga/Cpp-Programming/tree/95b84ce0dead74aa51019590008bb963419f2b41/My%20Notes/Exceptional%20C%2B%2B%20Style)
 - [ ] 7. [[More Exceptional C++]]\()
 - [ ] 8. [[100 C++ Mistakes and How to Avoid Them]]\()
