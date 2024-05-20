@@ -1,7 +1,7 @@
 # Preface
 
 - ***Design***, as I see it, is a static property of software, most often associated with an individual application or library, and is only one of many disciplines needed to create successful software. 
-- Development, on the other hand, is dynamic, involving people, processes, and workflows. Because development is ongoing, it typically spans the efforts attributed to many applications and projects.
+- _**Development**_, on the other hand, is dynamic, involving people, processes, and workflows. Because development is ongoing, it typically spans the efforts attributed to many applications and projects.
 - In its most general sense, development includes the design, implementation, testing, deployment, and maintenance of a series of products over an extended period. In short, software development is what we do.
 
 - A key principle - one that helps form the foundation of this multi-volume book - is the profound importance of organization in software. Real-world software is intrinsically complex; however, a great deal of software is needlessly complicated, due in large part to a lack of basic organization - both in the way in which it is developed and in the final form that it takes. 
