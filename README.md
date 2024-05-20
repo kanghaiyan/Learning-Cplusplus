@@ -52,7 +52,7 @@
 
 ### Advanced
 
-- [ ] 1. [[Large-Scale C++ Volume I Process and Architecture]]\()
+- [ ] 1. [Large-Scale C++ Volume I Process and Architecture](https://github.com/olemdiga/Learning-Cplusplus/tree/477339db48fe4e2e956e9c0a20681bccb92ef8c7/My%20Notes/Large-Scale%20C%2B%2B%20Volume%20I%20Process%20and%20Architecture)
 
 ### Reference
 
