@@ -40,7 +40,7 @@
 
 ### Standard Library
 
-- [ ] 1. [[The C++ Standard Library]]\()
+- [ ] 1. [The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library)
 - [ ] 2. [[The C++ Standard Library 2023]]\()
 
 ### Standard Template Library
