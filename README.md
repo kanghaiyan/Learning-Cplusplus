@@ -1,6 +1,6 @@
 # Learning C++ Programming Language
 
-  - Keeping Track and Notes of all my C++ readings (24000 Pages) since 10 May 2024
+  - Keeping Track and Notes of all my C++ readings since 10 May 2024
 
 # My C++ Reading List
 
@@ -63,6 +63,5 @@
 ### Misc
 
 - [ ] 1. [[C++ Notes For Professionals]]\()
-- [ ] 2. [[Discovering Modern C++]]\()
-- [ ] 3. [[Functional Programming in C++]]\()
-- [ ] 4. [Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)
+- [ ] 2. [[Functional Programming in C++]]\()
+- [ ] 3. [Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)
