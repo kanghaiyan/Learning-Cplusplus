@@ -16,8 +16,10 @@
 - [ ] 8. [Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)
 - [ ] 9. [C++ How to Program]\()
 - [ ] 10. [C++ Programming: From Problem Analysis to Program Design]\()
-- [ ] 11. []\()
+- [ ] 11. [Jumping into C++]\()
+- [ ] 
 
+[]\()
 ### Introductory
 
 - [ ] 1. [A Tour of C++](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/A%20Tour%20of%20C%2B%2B)
@@ -63,6 +65,7 @@
 - [ ] 2. [C++ Cookbook]\()
 - [ ] 3. [The C++ Programming Language]\()
 - [ ] 4. [C++ Recipes]\()
+- [ ] 5. [The Modern C++ Challenge]\()
 
 ### Misc
 
