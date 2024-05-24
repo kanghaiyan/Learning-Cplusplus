@@ -6,7 +6,7 @@
 
 ### Beginner
 
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 1. |[Beginning C++ Programming]\() | Richard Grimes |	516| 2017 |False|
 | 2. |[Beginning C++20 replace with Beginning C++23]\()|Ivor Horton|938|	2023|False|
@@ -22,21 +22,21 @@
 | 12. |[The C++ Workshop]\()|Dale Green|	605	|2020|False|
 
 ### Introductory
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 13. | [A Tour of C++](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/A%20Tour%20of%20C%2B%2B) |Bjarne Stroustrup | 320 | 2023 |False|
 | 14. |[Accelerated C++](https://github.com/olemdiga/Learning-Cplusplus/tree/022b17e625a04ffa93b99f3a8598e0058df689f7/My%20Notes/Accelerated%20C%2B%2B)|Andrew Koenig|453|2000|False|
 | 15. |[C++20 The Complete Guide](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/C%2B%2B20%20The%20Complete%20Guide)|Nicolai M. Josuttis|	762|2022|False|
 
 ### Intermediate
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 16. |[C++ Crash Course](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Crash%20Course)|Josh Lospinoso|794|	2019|False|
 | 17. |[Modern C++ Programming Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/617c8d9860195400b06883f23a7cd398065f1c5b/My%20Notes/Modern%20C%2B%2B%20Programming%20Cookbook)|Marius Bancila|816|2024|False|
 | 18. |[Professional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20C%2B%2B) | Marc Gregoire|	1285|	2021|False|
 
 ### Best Practices
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 19. |[C++ Coding Standards](https://github.com/olemdiga/Cpp-Programming/tree/8472295a81d109c69420003682d2d1fc7e921c07/My%20Notes/C%2B%2B%20Coding%20Standards) | Herb Sutter | 225 | 2005 |False|
 | 20. |[Design Patterns in Modern C++20]\()|Dmitri Nesteruk|391|2022|False|
@@ -48,13 +48,13 @@
 | 26. |[100 C++ Mistakes and How to Avoid Them]\()|Rich Yonts	|220	|2025|False|
 
 ### Standard Library
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 27. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library) | Nicolai M. Josuttis|	1190|	2012|False|
 | 28. |[The C++ Standard Library]\() | Rainer Grimm | 344 | 2023 |False|
 
 ### Standard Template Library
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 29. |[C++ Template Metaprogramming]\()|David Abrahams|387|2004|False|
 | 30. |[Effective STL]\()|Scott Meyers|280|	2001|False|
@@ -62,7 +62,7 @@
 | 32. |[Using the C++ Standard Template Libraries]\()|Ivor Horton|504|2015|False|
 
 ### Advanced
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 33. |[Large-Scale C++ Volume I Process and Architecture](https://github.com/olemdiga/Learning-Cplusplus/tree/477339db48fe4e2e956e9c0a20681bccb92ef8c7/My%20Notes/Large-Scale%20C%2B%2B%20Volume%20I%20Process%20and%20Architecture)|John S. Lakos|	1024|2019|False|
 | 34. |[Advanced C++ Programming Cookbook]\()|Dr. Rian Quinn	|443	|2020|False|
@@ -70,7 +70,7 @@
 | 36. |[Advanced C and C++ Compiling]\()|Milan Stevanovic	|326	|2014|False|
 
 ### Reference
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 37. |[A Complete Guide to Programming in C++]\()|Ulla Kirch-Prinz|846|2002|False|
 | 38. |[C++ Cookbook]\()|D. Ryan Stephens|	594|2006|False|
@@ -79,7 +79,7 @@
 | 41. |[The Modern C++ Challenge]\()|Marius Bancila|321|2018| False|
 
 ### Misc
-| No. | Title | Author | Pages | Year | Finished?|
+| No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 42. |[C++ Notes For Professionals]\()|Julio M Najera	|708	|2021|False|
 | 43. |[Functional Programming in C++]\()|Ivan Čukić|321|2019|False|
