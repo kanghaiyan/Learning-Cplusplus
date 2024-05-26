@@ -51,115 +51,45 @@
 | 26.  |[Exceptional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/08031a63afc24265a63ed4758a3ea13bc5695b29/My%20Notes/Exceptional%20C%2B%2B)|Herb Sutter|288|1999|False|
 
 ### Standard Library
-| No. | Title | Author | Pages | Year | Date Finished|
-|-----|----------|----------|------|------|-------|
-| 27. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library) | Nicolai M. Josuttis|	1190|	2012|False|
-| 28. |[The C++ Standard Library]\() | Rainer Grimm | 344 | 2023 |False|
 
 | No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. 
-| 2. 
-| 3. 
-| 4. 
-| 5. 
-| 6. 
-| 7. 
-| 8. 
-| 9. 
-| 10.
-| 11.
-| 12. 
+| 27. |[The C++ Standard Library]\()|Rainer Grimm|344|2023|False|
+| 28. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library)|Nicolai M. Josuttis|1190|2012|False|
 
 ### Standard Template Library
-| No. | Title | Author | Pages | Year | Date Finished|
-|-----|----------|----------|------|------|-------|
-| 29. |[C++ Template Metaprogramming]\()|David Abrahams|387|2004|False|
-| 30. |[Effective STL]\()|Scott Meyers|280|	2001|False|
-| 31. |[Mastering the C++ 17 STL]\()|Arthur O'Dwyer|379|2017|False|
-| 32. |[Using the C++ Standard Template Libraries]\()|Ivor Horton|504|2015|False|
 
 | No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. 
-| 2. 
-| 3. 
-| 4. 
-| 5. 
-| 6. 
-| 7. 
-| 8. 
-| 9. 
-| 10.
-| 11.
-| 12. 
+| 29. |[Mastering the C++ 17 STL]\()|Arthur O'Dwyer|379|2017|False|
+| 30. |[Using the C++ Standard Template Libraries]\()|Ivor Horton|504|2015|False|
+| 31. |[C++ Template Metaprogramming]\()|David Abrahams|387|2004|False|
+| 32. |[Effective STL]\()|Scott Meyers|280|2001|False|
 
 ### Advanced
-| No. | Title | Author | Pages | Year | Date Finished|
-|-----|----------|----------|------|------|-------|
-| 33. |[Large-Scale C++ Volume I Process and Architecture](https://github.com/olemdiga/Learning-Cplusplus/tree/477339db48fe4e2e956e9c0a20681bccb92ef8c7/My%20Notes/Large-Scale%20C%2B%2B%20Volume%20I%20Process%20and%20Architecture)|John S. Lakos|	1024|2019|False|
-| 34. |[Advanced C++ Programming Cookbook]\()|Dr. Rian Quinn	|443	|2020|False|
-| 35. |[Advanced C++]\()|Gazihan Alankus|	763	|2019|False|
-| 36. |[Advanced C and C++ Compiling]\()|Milan Stevanovic	|326	|2014|False|
 
 | No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. 
-| 2. 
-| 3. 
-| 4. 
-| 5. 
-| 6. 
-| 7. 
-| 8. 
-| 9. 
-| 10.
-| 11.
-| 12. 
+| 33. |[Advanced C++ Programming Cookbook]\()|Dr. Rian Quinn|443|2020|False|
+| 34. |[Advanced C++]\()|Gazihan Alankus|763|2019|False|
+| 35. |[Large-Scale C++ Volume I Process and Architecture](https://github.com/olemdiga/Learning-Cplusplus/tree/477339db48fe4e2e956e9c0a20681bccb92ef8c7/My%20Notes/Large-Scale%20C%2B%2B%20Volume%20I%20Process%20and%20Architecture)|John S. Lakos|1024|2019|False|
+| 36. |[Advanced C and C++ Compiling]\()|Milan Stevanovic|326|2014|False|
 
 ### Reference
-| No. | Title | Author | Pages | Year | Date Finished|
-|-----|----------|----------|------|------|-------|
-| 37. |[A Complete Guide to Programming in C++]\()|Ulla Kirch-Prinz|846|2002|False|
-| 38. |[C++ Cookbook]\()|D. Ryan Stephens|	594|2006|False|
-| 39. |[The C++ Programming Language]\()|Bjarne Stroustrup|	1366|2013|False|
-| 40. |[C++ Recipes]\()|Bruce Sutherland|	473	|2015|False|
-| 41. |[The Modern C++ Challenge]\()|Marius Bancila|321|2018| False|
 
 | No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. 
-| 2. 
-| 3. 
-| 4. 
-| 5. 
-| 6. 
-| 7. 
-| 8. 
-| 9. 
-| 10.
-| 11.
-| 12. 
+| 37. |[The Modern C++ Challenge]\()|Marius Bancila|321|2018|False|
+| 38. |[C++ Recipes]\()|Bruce Sutherland|473|2015|False|
+| 39. |[The C++ Programming Language]\()|Bjarne Stroustrup|	1366|2013|False|
+| 40. |[C++ Cookbook]\()|D. Ryan Stephens|594|2006|False|
+| 41. |[A Complete Guide to Programming in C++]\()|Ulla Kirch-Prinz|846|2002|False|
 
 ### Misc
-| No. | Title | Author | Pages | Year | Date Finished|
-|-----|----------|----------|------|------|-------|
-| 42. |[C++ Notes For Professionals]\()|Julio M Najera	|708	|2021|False|
-| 43. |[Functional Programming in C++]\()|Ivan Čukić|321|2019|False|
-| 44. |[Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)|Craig Scott|	664	|2023|False|
-| 45. | [Embracing Modern C++ Safely]\() |John S. Lakos	|1376|	2021| False|
 
 | No. | Title | Author | Pages | Year | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. 
-| 2. 
-| 3. 
-| 4. 
-| 5. 
-| 6. 
-| 7. 
-| 8. 
-| 9. 
-| 10.
-| 11.
-| 12. 
+| 42. |[Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)|Craig Scott|	664|2023|False|
+| 43. |[Embracing Modern C++ Safely]\()|John S. Lakos|1376|2021|False|
+| 44. |[C++ Notes For Professionals]\()|Julio M Najera|708|2021|False|
+| 45. |[Functional Programming in C++]\()|Ivan Čukić|321|2019|False|
