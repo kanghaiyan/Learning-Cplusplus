@@ -6,9 +6,9 @@
 
 ### Beginner
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. |[Programming Principles and Practice Using C++]\() |Bjarne Stroustrup| 1236| 2024|False|
+| 1. |[Programming Principles and Practice Using C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2a8ffb05cc0b3881ef6d28f839ef5a2e6fd1a6fa/My%20Notes/Programming%20-%20Principles%20and%20Practice%20Using%20C%2B%2B) |Bjarne Stroustrup| 1236| 2024|False|
 | 2. |[Beginning C++23](https://github.com/olemdiga/Learning-Cplusplus/tree/2b1d5ab2e1c0b3fc9f8971d46eeda4f43ca7ef37/My%20Notes/Beginning%20C%2B%2B23)|Ivor Horton|938|	2023|False|
 | 3. |[Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)|Tony Gaddis|1397|2021|False|
 | 4. |[C++ All-in-One For Dummies]\()|John Paul Mueller|915|2021|False|
@@ -23,7 +23,7 @@
 
 ### Introductory
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 13. | [A Tour of C++](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/A%20Tour%20of%20C%2B%2B) |Bjarne Stroustrup|320|2023|False|
 | 14. |[C++20 The Complete Guide](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/C%2B%2B20%20The%20Complete%20Guide)|Nicolai M. Josuttis|762|2022|False|
@@ -31,7 +31,7 @@
 
 ### Intermediate
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 16. |[Modern C++ Programming Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/617c8d9860195400b06883f23a7cd398065f1c5b/My%20Notes/Modern%20C%2B%2B%20Programming%20Cookbook)|Marius Bancila|816|2024|False|
 | 17. |[Professional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20C%2B%2B) | Marc Gregoire|	1285|2021|False|
@@ -39,7 +39,7 @@
 
 ### Best Practices
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 19.|[100 C++ Mistakes and How to Avoid Them]\()|Rich Yonts	|220|2025|False|
 | 20. |[Design Patterns in Modern C++20]\()|Dmitri Nesteruk|391|2022|False|
@@ -52,14 +52,14 @@
 
 ### Standard Library
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 27. |[The C++ Standard Library]\()|Rainer Grimm|344|2023|False|
 | 28. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library)|Nicolai M. Josuttis|1190|2012|False|
 
 ### Standard Template Library
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 29. |[Mastering the C++ 17 STL]\()|Arthur O'Dwyer|379|2017|False|
 | 30. |[Using the C++ Standard Template Libraries]\()|Ivor Horton|504|2015|False|
@@ -68,7 +68,7 @@
 
 ### Advanced
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 33. |[Advanced C++ Programming Cookbook]\()|Dr. Rian Quinn|443|2020|False|
 | 34. |[Advanced C++]\()|Gazihan Alankus|763|2019|False|
@@ -77,7 +77,7 @@
 
 ### Reference
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 37. |[The Modern C++ Challenge]\()|Marius Bancila|321|2018|False|
 | 38. |[C++ Recipes]\()|Bruce Sutherland|473|2015|False|
@@ -87,7 +87,7 @@
 
 ### Misc
 
-| No. | Title | Author | Pages | Year | Date Finished|
+| No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 42. |[Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)|Craig Scott|	664|2023|False|
 | 43. |[Embracing Modern C++ Safely]\()|John S. Lakos|1376|2021|False|
