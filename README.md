@@ -42,12 +42,12 @@
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 19.|[100 C++ Mistakes and How to Avoid Them](https://github.com/olemdiga/Learning-Cplusplus/tree/dfd71cf9d69be5f4fc098ad44ff94c686a41dcc7/My%20Notes/100%20C%2B%2B%20Mistakes%20and%20How%20to%20Avoid%20Them)|Rich Yonts	|220|2025| |
-| 20. |[Design Patterns in Modern C++20]\()|Dmitri Nesteruk|391|2022| |
-| 21. |[Effective Modern C++]\()|Scott Meyers|334|2015| |
-| 22. |[Effective C++]\()| Scott Meyers|321|2008| |
+| 20. |[Design Patterns in Modern C++20](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Design%20Patterns%20in%20Modern%20C%2B%2B20)|Dmitri Nesteruk|391|2022| |
+| 21. |[Effective Modern C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Effective%20Modern%20C%2B%2B)|Scott Meyers|334|2015| |
+| 22. |[Effective C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Effective%20C%2B%2B)| Scott Meyers|321|2008| |
 | 23. |[C++ Coding Standards](https://github.com/olemdiga/Cpp-Programming/tree/8472295a81d109c69420003682d2d1fc7e921c07/My%20Notes/C%2B%2B%20Coding%20Standards) |Herb Sutter|225|2005| |
 | 24. |[Exceptional C++ Style](https://github.com/olemdiga/Cpp-Programming/tree/95b84ce0dead74aa51019590008bb963419f2b41/My%20Notes/Exceptional%20C%2B%2B%20Style)|Herb Sutter|226|2004| |
-| 25. |[More Exceptional C++]\()|Herb Sutter|234|2001| |
+| 25. |[More Exceptional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/More%20Exceptional%20C%2B%2B)|Herb Sutter|234|2001| |
 | 26.  |[Exceptional C++](https://github.com/olemdiga/Learning-Cplusplus/tree/08031a63afc24265a63ed4758a3ea13bc5695b29/My%20Notes/Exceptional%20C%2B%2B)|Herb Sutter|288|1999| |
 
 ### Standard Library
@@ -61,10 +61,10 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 29. |[Mastering the C++ 17 STL]\()|Arthur O'Dwyer|379|2017| |
-| 30. |[Using the C++ Standard Template Libraries]\()|Ivor Horton|504|2015| |
-| 31. |[C++ Template Metaprogramming]\()|David Abrahams|387|2004| |
-| 32. |[Effective STL]\()|Scott Meyers|280|2001| |
+| 29. |[Mastering the C++ 17 STL](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Mastering%20the%20C%2B%2B%2017%20STL)|Arthur O'Dwyer|379|2017| |
+| 30. |[Using the C++ Standard Template Libraries](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Using%20the%20C%2B%2B%20Standard%20Template%20Libraries)|Ivor Horton|504|2015| |
+| 31. |[C++ Template Metaprogramming](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/C%2B%2B%20Template%20Metaprogramming)|David Abrahams|387|2004| |
+| 32. |[Effective STL](https://github.com/olemdiga/Learning-Cplusplus/tree/2364ac7c4eafba3818cc97a5e34af888176402db/My%20Notes/Effective%20STL)|Scott Meyers|280|2001| |
 
 ### Advanced
 
