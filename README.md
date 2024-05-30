@@ -54,8 +54,8 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 27. |[The C++ Standard Library]\()|Rainer Grimm|344|2023| |
-| 28. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library)|Nicolai M. Josuttis|1190|2012| |
+| 27. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/49a767029199886609adfff3114744b786bd57b8/My%20Notes/The%20C%2B%2B%20Standard%20Library)|Rainer Grimm|344|2023| |
+| 28. |[The C++ Standard Library](https://github.com/olemdiga/Learning-Cplusplus/tree/2695989bee1f26b4fab2b9a7b20442510f5dd3ed/My%20Notes/The%20C%2B%2B%20Standard%20Library%20-%202023)|Nicolai M. Josuttis|1190|2012| |
 
 ### Standard Template Library
 
