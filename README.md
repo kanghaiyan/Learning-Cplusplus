@@ -1,6 +1,6 @@
-# Learning C++ Programming Language
+# Learning The C++ Programming Language
 
-  - Keeping Track and Notes of all my C++ readings since 10 May 2024
+  - Start Date: 10 May 2024
 
 # My C++ Reading List
 
