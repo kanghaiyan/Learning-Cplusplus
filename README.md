@@ -11,15 +11,15 @@
 | 1. |[Programming Principles and Practice Using C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2a8ffb05cc0b3881ef6d28f839ef5a2e6fd1a6fa/My%20Notes/Programming%20-%20Principles%20and%20Practice%20Using%20C%2B%2B) |Bjarne Stroustrup| 1236| 2024| |
 | 2. |[Beginning C++23](https://github.com/olemdiga/Learning-Cplusplus/tree/2b1d5ab2e1c0b3fc9f8971d46eeda4f43ca7ef37/My%20Notes/Beginning%20C%2B%2B23)|Ivor Horton|938|	2023| |
 | 3. |[Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)|Tony Gaddis|1397|2021| |
-| 4. |[C++ All-in-One For Dummies]\()|John Paul Mueller|915|2021| |
-| 5. |[The C++ Workshop]\()|Dale Green|605|2020| |
-| 6. |[C++ Programming: From Problem Analysis to Program Design]\()|D.S. Malik|1491|2018| |
-| 7. |[C++ How to Program]\()|Paul J. Deitel|1080|2017| |
-| 8. |[Beginning C++ Programming]\() |Richard Grimes|516|2017| |
+| 4. |[C++ All-in-One For Dummies](https://github.com/olemdiga/Learning-Cplusplus/tree/dfd71cf9d69be5f4fc098ad44ff94c686a41dcc7/My%20Notes/C%2B%2B%20All-in-One%20For%20Dummies)|John Paul Mueller|915|2021| |
+| 5. |[The C++ Workshop](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/The%20C%2B%2B%20Workshop)|Dale Green|605|2020| |
+| 6. |[C++ Programming: From Problem Analysis to Program Design](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20Programming%20-%20From%20Problem%20Analysis%20to%20Program%20Design)|D.S. Malik|1491|2018| |
+| 7. |[C++ How to Program](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20How%20to%20Program)|Paul J. Deitel|1080|2017| |
+| 8. |[Beginning C++ Programming](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/Beginning%20C%2B%2B%20Programming) |Richard Grimes|516|2017| |
 | 9. |[Learn C++ Programming Language](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Learn%20C%2B%2B%20Programming%20Language)|Tutorials Point|322|2014| |
 | 10.|[C++ Primer](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Primer)|Stanley B. Lippman|962|2013| |
-| 11.|[Jumping into C++]\()|Alex Allain|381|2013| |
-| 12. |[C++ Programming]\()|Wikibooks|684|2012| |
+| 11.|[Jumping into C++](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/Jumping%20into%20C%2B%2B)|Alex Allain|381|2013| |
+| 12. |[C++ Programming](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20Programming%20-%20Wikibooks)|Wikibooks|684|2012| |
 
 ### Introductory
 
@@ -41,7 +41,7 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 19.|[100 C++ Mistakes and How to Avoid Them]\()|Rich Yonts	|220|2025| |
+| 19.|[100 C++ Mistakes and How to Avoid Them](https://github.com/olemdiga/Learning-Cplusplus/tree/dfd71cf9d69be5f4fc098ad44ff94c686a41dcc7/My%20Notes/100%20C%2B%2B%20Mistakes%20and%20How%20to%20Avoid%20Them)|Rich Yonts	|220|2025| |
 | 20. |[Design Patterns in Modern C++20]\()|Dmitri Nesteruk|391|2022| |
 | 21. |[Effective Modern C++]\()|Scott Meyers|334|2015| |
 | 22. |[Effective C++]\()| Scott Meyers|321|2008| |
