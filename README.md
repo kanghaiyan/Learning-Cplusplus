@@ -70,26 +70,26 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 33. |[Advanced C++ Programming Cookbook]\()|Dr. Rian Quinn|443|2020| |
-| 34. |[Advanced C++]\()|Gazihan Alankus|763|2019| |
+| 33. |[Advanced C++ Programming Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Advanced%20C%2B%2B%20Programming%20Cookbook)|Dr. Rian Quinn|443|2020| |
+| 34. |[Advanced C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Advanced%20C%2B%2B)|Gazihan Alankus|763|2019| |
 | 35. |[Large-Scale C++ Volume I Process and Architecture](https://github.com/olemdiga/Learning-Cplusplus/tree/477339db48fe4e2e956e9c0a20681bccb92ef8c7/My%20Notes/Large-Scale%20C%2B%2B%20Volume%20I%20Process%20and%20Architecture)|John S. Lakos|1024|2019| |
-| 36. |[Advanced C and C++ Compiling]\()|Milan Stevanovic|326|2014| |
+| 36. |[Advanced C and C++ Compiling](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Advanced%20C%20and%20C%2B%2B%20Compiling)|Milan Stevanovic|326|2014| |
 
 ### Reference
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 37. |[The Modern C++ Challenge]\()|Marius Bancila|321|2018| |
-| 38. |[C++ Recipes]\()|Bruce Sutherland|473|2015| |
-| 39. |[The C++ Programming Language]\()|Bjarne Stroustrup|	1366|2013| |
-| 40. |[C++ Cookbook]\()|D. Ryan Stephens|594|2006| |
-| 41. |[A Complete Guide to Programming in C++]\()|Ulla Kirch-Prinz|846|2002| |
+| 37. |[The Modern C++ Challenge](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/The%20Modern%20C%2B%2B%20Challenge)|Marius Bancila|321|2018| |
+| 38. |[C++ Recipes](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Recipes)|Bruce Sutherland|473|2015| |
+| 39. |[The C++ Programming Language](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/The%20C%2B%2B%20Programming%20Language)|Bjarne Stroustrup|	1366|2013| |
+| 40. |[C++ Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Cookbook)|D. Ryan Stephens|594|2006| |
+| 41. |[A Complete Guide to Programming in C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/A%20Complete%20Guide%20to%20Programming%20in%20C%2B%2B)|Ulla Kirch-Prinz|846|2002| |
 
 ### Misc
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 42. |[Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)|Craig Scott|	664|2023| |
-| 43. |[Embracing Modern C++ Safely]\()|John S. Lakos|1376|2021| |
-| 44. |[C++ Notes For Professionals]\()|Julio M Najera|708|2021| |
-| 45. |[Functional Programming in C++]\()|Ivan Čukić|321|2019| |
+| 43. |[Embracing Modern C++ Safely](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Embracing%20Modern%20C%2B%2B%20Safely)|John S. Lakos|1376|2021| |
+| 44. |[C++ Notes For Professionals](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Notes%20For%20Professionals)|Julio M Najera|708|2021| |
+| 45. |[Functional Programming in C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Functional%20Programming%20in%20C%2B%2B)|Ivan Čukić|321|2019| |
