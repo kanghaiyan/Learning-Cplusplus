@@ -16,7 +16,7 @@
 | 6. |[C++ Programming: From Problem Analysis to Program Design](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20Programming%20-%20From%20Problem%20Analysis%20to%20Program%20Design)|D.S. Malik|1491|2018| |
 | 7. |[C++ How to Program](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20How%20to%20Program)|Paul J. Deitel|1080|2017| |
 | 8. |[Beginning C++ Programming](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/Beginning%20C%2B%2B%20Programming) |Richard Grimes|516|2017| |
-| 9. |[Learn C++ Programming Language](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Learn%20C%2B%2B%20Programming%20Language)|Tutorials Point|322|2014| |
+| 9. |[Learn C++ Programming Language](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Learn%20C%2B%2B%20Programming%20Language)|Tutorials Point|322|2014|Reading|
 | 10.|[C++ Primer](https://github.com/olemdiga/Cpp-Programming/tree/f744da2d851982a71e3cfb59c42991c42b58142e/My%20Notes/C%2B%2B%20Primer)|Stanley B. Lippman|962|2013| |
 | 11.|[Jumping into C++](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/Jumping%20into%20C%2B%2B)|Alex Allain|381|2013| |
 | 12. |[C++ Programming](https://github.com/olemdiga/Learning-Cplusplus/tree/9c6ad032e1244e09f1c96ca8e430f9ad92d8c7ea/My%20Notes/C%2B%2B%20Programming%20-%20Wikibooks)|Wikibooks|684|2012| |
