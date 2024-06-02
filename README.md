@@ -8,7 +8,7 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 1. |[Programming Principles and Practice Using C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2a8ffb05cc0b3881ef6d28f839ef5a2e6fd1a6fa/My%20Notes/Programming%20-%20Principles%20and%20Practice%20Using%20C%2B%2B) |Bjarne Stroustrup| 1236| 2024| |
+| 1. |[Programming Principles and Practice Using C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2a8ffb05cc0b3881ef6d28f839ef5a2e6fd1a6fa/My%20Notes/Programming%20-%20Principles%20and%20Practice%20Using%20C%2B%2B) |[Bjarne Stroustrup](https://www.stroustrup.com/)| 1236| 2024| |
 | 2. |[Beginning C++23](https://github.com/olemdiga/Learning-Cplusplus/tree/2b1d5ab2e1c0b3fc9f8971d46eeda4f43ca7ef37/My%20Notes/Beginning%20C%2B%2B23)|Ivor Horton|938|	2023| |
 | 3. |[Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)|Tony Gaddis|1397|2021| |
 | 4. |[C++ All-in-One For Dummies](https://github.com/olemdiga/Learning-Cplusplus/tree/dfd71cf9d69be5f4fc098ad44ff94c686a41dcc7/My%20Notes/C%2B%2B%20All-in-One%20For%20Dummies)|John Paul Mueller|915|2021| |
@@ -25,7 +25,7 @@
 
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
-| 13. | [A Tour of C++](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/A%20Tour%20of%20C%2B%2B) |Bjarne Stroustrup|320|2023| |
+| 13. | [A Tour of C++](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/A%20Tour%20of%20C%2B%2B) |[Bjarne Stroustrup](https://www.stroustrup.com/)|320|2023| |
 | 14. |[C++20 The Complete Guide](https://github.com/olemdiga/Learning-Cplusplus/tree/69b8f8ef28e796eedecc4d3ca6e1574bcd7bf0f1/My%20Notes/C%2B%2B20%20The%20Complete%20Guide)|Nicolai M. Josuttis|762|2022| |
 | 15. |[Accelerated C++](https://github.com/olemdiga/Learning-Cplusplus/tree/022b17e625a04ffa93b99f3a8598e0058df689f7/My%20Notes/Accelerated%20C%2B%2B)|Andrew Koenig|453|2000| |
 
@@ -81,7 +81,7 @@
 |-----|----------|----------|------|------|-------|
 | 37. |[The Modern C++ Challenge](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/The%20Modern%20C%2B%2B%20Challenge)|Marius Bancila|321|2018| |
 | 38. |[C++ Recipes](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Recipes)|Bruce Sutherland|473|2015| |
-| 39. |[The C++ Programming Language](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/The%20C%2B%2B%20Programming%20Language)|Bjarne Stroustrup|	1366|2013| |
+| 39. |[The C++ Programming Language](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/The%20C%2B%2B%20Programming%20Language)|[Bjarne Stroustrup](https://www.stroustrup.com/)|	1366|2013| |
 | 40. |[C++ Cookbook](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Cookbook)|D. Ryan Stephens|594|2006| |
 | 41. |[A Complete Guide to Programming in C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/A%20Complete%20Guide%20to%20Programming%20in%20C%2B%2B)|Ulla Kirch-Prinz|846|2002| |
 
