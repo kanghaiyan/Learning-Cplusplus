@@ -1,0 +1,3 @@
+# Preface
+
+- Despite the existence of numerous real systems built with template metaprogramming and the MPL, many people still consider  metaprogramming to be other-worldly magic, and often as something to be avoided in day-to-day production code. If you've never done any metaprogramming, it may not even have an obvious relationship to the work you do. With this book, we hope to lift the veil of mystery, so that you get an understanding not only of how metaprogramming is done, but also why and when. The best part is that while much of the mystery will have dissolved, we think you'll still find enough magic left in the subject to stay as inspired about it as we are.
