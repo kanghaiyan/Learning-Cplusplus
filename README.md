@@ -9,7 +9,7 @@
 | No. | Title | Author | Pages | Published | Date Finished|
 |-----|----------|----------|------|------|-------|
 | 0. |[Programming Principles and Practice Using C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2a8ffb05cc0b3881ef6d28f839ef5a2e6fd1a6fa/My%20Notes/Programming%20-%20Principles%20and%20Practice%20Using%20C%2B%2B) |[Bjarne Stroustrup](https://www.stroustrup.com/)| 1236| 2024| |
-| 1. | [Modern C++ for Absolute Beginners]\()|Slobodan Dmitrovic |441|2023| |
+| 1. | [Modern C++ for Absolute Beginners](https://github.com/olemdiga/Learning-Cplusplus/tree/bc7aacdbadcf4f891441bbd7be1ab806584e1be0/My%20Notes/Modern%20C%2B%2B%20for%20Absolute%20Beginners)|Slobodan Dmitrovic |441|2023| |
 | 2. |[Beginning C++23](https://github.com/olemdiga/Learning-Cplusplus/tree/2b1d5ab2e1c0b3fc9f8971d46eeda4f43ca7ef37/My%20Notes/Beginning%20C%2B%2B23)|Ivor Horton|938|	2023| |
 | 3. |[Starting out with C++](https://github.com/olemdiga/Cpp-Programming/tree/2de54687acc034ac56bdde83f5962f0267f58e02/My%20Notes/Starting%20out%20with%20C%2B%2B)|Tony Gaddis|1397|2021| |
 | 4. |[C++ All-in-One For Dummies](https://github.com/olemdiga/Learning-Cplusplus/tree/dfd71cf9d69be5f4fc098ad44ff94c686a41dcc7/My%20Notes/C%2B%2B%20All-in-One%20For%20Dummies)|John Paul Mueller|915|2021| |
