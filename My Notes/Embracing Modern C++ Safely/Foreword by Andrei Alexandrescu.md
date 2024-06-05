@@ -24,5 +24,3 @@ is a refreshingly nonideological read, no more partisan than a book on experimen
 - I noticed something about great work — be it in engineering, art, sports, or any other challenging human endeavor. Almost always, great work is the result of talented people making an extra effort that goes beyond what one might consider reasonable. In appreciating such work, we implicitly acknowledge great capability combined with commensurately great effort in realizing it. Good work can be done glibly; great work cannot.
 
 - The quest for perfection is as contagious as the resignation to sloppiness and incomparably more fun.
-
-- 
