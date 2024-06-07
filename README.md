@@ -95,3 +95,4 @@
 | 43. |[Embracing Modern C++ Safely](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Embracing%20Modern%20C%2B%2B%20Safely)|John S. Lakos|1376|2021| |
 | 44. |[C++ Notes For Professionals](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Notes%20For%20Professionals)|Julio M Najera|708|2021| |
 | 45. |[Functional Programming in C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Functional%20Programming%20in%20C%2B%2B)|Ivan Čukić|321|2019| |
+| 46. |[Efficient C++ Performance Programming Techniques]/() | Dov Bulka |205|1999| |
