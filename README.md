@@ -93,7 +93,7 @@
 |-----|----------|----------|------|------|-------|
 | 42. |[Professional CMake](https://github.com/olemdiga/Learning-Cplusplus/tree/dd281a3097117d26bae0750b4bfe92d14939fb36/My%20Notes/Professional%20CMake)|Craig Scott|	664|2023| |
 | 43. |[Embracing Modern C++ Safely](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Embracing%20Modern%20C%2B%2B%20Safely)|John S. Lakos|1376|2021| |
-| 44. |[C++ Notes For Professionals](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/C%2B%2B%20Notes%20For%20Professionals)|Julio M Najera|708|2021| |
+| 44. |[C++ Notes For Professionals](https://github.com/olemdiga/Learning-Cplusplus/tree/6a6ccacf176510116b8bb73f43e44912fee84b71/My%20Notes/C%2B%2B%20Notes%20For%20Professionals)|Julio M Najera|708|2021| |
 | 45. |[Functional Programming in C++](https://github.com/olemdiga/Learning-Cplusplus/tree/2b4205298e20b2f27d807704441238d00a6dffde/My%20Notes/Functional%20Programming%20in%20C%2B%2B)|Ivan Čukić|321|2019| |
 | 46. |[Efficient C++ Performance Programming Techniques]/() | Dov Bulka |205|1999| |
 
