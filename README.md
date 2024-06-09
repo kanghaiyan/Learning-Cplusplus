@@ -110,3 +110,5 @@
 8. S. B. Lippman. Inside the C++ Object Model. Addison-Wesley, Reading, MA 1996.
 9. D. R. Musser and A. Saini. STL Tutorial and Reference Guide. Addison-Wesley, Reading, MA 1996.
 10. R. B. Murray. C++ Strategies and Tactics. Addison-Wesley, Reading, MA 1993.
+11. C++ for Game Programmers by Michael Dickheiser
+12. Martin Reddy	API Design for C++
